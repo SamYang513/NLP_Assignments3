@@ -1,0 +1,7 @@
+{
+  "embedding_model": "BAAI/bge-m3",
+  "metric": "cosine_similarity_via_normalized_inner_product",
+  "document_count": 248,
+  "dimension": 1024,
+  "database": "news.db"
+}
